@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.header {
+  background-color: hsl(193, 95%, 68%);
+  color: rgb(76, 77, 82);
+  padding: 5px;
+}
+
+.active {
+  font-weight: bolder;
+}
+
+.add {
+    border: 3px solid rgb(4, 41, 93);
+    margin: 10px ;
+    padding: 15px ;
+    width: 250px ;
+    flex-wrap: wrap;
+    box-shadow: 0px 0px 10px rgb(4, 41, 93) ;
+    display: inline-table ;
+}
+
+.link-text {
+  text-decoration: none;
+}
+
+.button {
+  margin-right: 10px;
+  
+}
+
+.button-link {
+  color: white;
+  text-decoration: none;
+}
+
+.error {
+  color: red;
+  font-weight: 400 ;
+  padding: 2px;
+}
+
+.display {
+  display: inline-table;
+
+}
+
+.size {
+  width: 800px ;
+  margin: 2em;
+}
+
+.title {
+  margin-top: 30px;
+}
